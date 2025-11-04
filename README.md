@@ -1,8 +1,5 @@
-# starter code for a2
+5-class Sentiment Analysis neural networks for Yelp Review with neural networks: Feedforward Neural Network (FFNN) ffnn.py and Recurrent Neural Network (RNN) rnn.py
 
-Add the corresponding (one) line under the ``[to fill]`` in ``def forward()`` of the class for ffnn.py and rnn.py
-
-Feel free to modify other part of code, they are just for your reference.
 
 ---
 
